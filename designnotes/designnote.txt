@@ -1,0 +1,10 @@
+Design notes:
+
+Website design references:
+1. w3schools
+2. https://www.wordstream.com/blog/ws/2019/10/03/website-color-scheme
+
+
+Jpeg references:
+1. shoppingphone.jpg came from the following website:
+https://www.istockphoto.com/photo/woman-online-shopping-on-smart-phone-fashion-clothes-at-home-gm1336136316-417509374?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fe-commerce&utm_term=e%20commerce%3A%3Asearch-explore-top-affiliate-outside-feed-x-v2%3Acontrol
